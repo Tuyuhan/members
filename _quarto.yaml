@@ -12,6 +12,8 @@ website:
         text: 学生名单
       - href: issue2_voting.qmd
         text: 模型投票
+      - href: members-list.qmd
+        text: 成员名单
 
 format:
   html:
